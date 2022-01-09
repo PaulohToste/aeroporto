@@ -1,3 +1,4 @@
+create database aeroporto
 use aeroporto;
 
 create table companiaAerea(
